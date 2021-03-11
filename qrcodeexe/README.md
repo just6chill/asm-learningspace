@@ -25,5 +25,4 @@ so my result was a small hello world in assembly with win32 which hat a toal siz
 
 and thats my result:
 
-![alt text][logo]
-[logo]: https://github.com/just6chill/asm-learningspace/blob/main/qrcodeexe/code.png
+![alt text](https://github.com/just6chill/asm-learningspace/blob/main/qrcodeexe/code.png "QR Code")
