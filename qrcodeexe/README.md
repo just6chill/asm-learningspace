@@ -30,3 +30,13 @@ so my result was a small hello world in assembly with win32 which hat a toal siz
 **and thats my result:**
 
 ![alt text](https://github.com/just6chill/asm-learningspace/blob/main/qrcodeexe/code.png "QR Code")
+
+---
+
+**read the QR Code:**
+
+you need the zbarimg toolchain
+
+    zbarimg --raw --oneshot -Sbinary code.png > hello.exe
+    
+then execute the hello.exe and get a simple hello world output.
