@@ -1,5 +1,5 @@
 section .data
-	msg db "Hello Wold", 0
+	msg db "Hello Wold"
 	len equ $ - msg
 	handle db 0
 	written db 0
